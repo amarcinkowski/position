@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">pos</string>
+    <string name="lat">lat</string>
+    <string name="lon">lon</string>
+    <string name="app_name">asd</string>
+</resources>
